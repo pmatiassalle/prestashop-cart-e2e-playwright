@@ -7,7 +7,7 @@ export default defineConfig({
     timeout: 30_000,
   },
   use: {
-    baseURL: 'https://demo.prestashop.com/#/en/front',
+    baseURL: 'https://demo.prestashop.com/',
     headless: true,
   },
   projects: [
